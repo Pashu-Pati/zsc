@@ -1,3 +1,11 @@
+/***********************
+* Adobe Edge Animate Composition Actions
+*
+* Edit this file with caution, being careful to preserve 
+* function signatures and comments starting with 'Edge' to maintain the 
+* ability to interact with these actions from within Adobe Edge Animate
+*
+***********************/
 (function($, Edge, compId){
 var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonly used Edge classes
 
@@ -5,7 +13,7 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
    (function(symbolName) {
       
       
-      Symbol.bindTriggerAction(compId, symbolName, "Default Timeline", 18000, function(sym, e) {
+      Symbol.bindTriggerAction(compId, symbolName, "Default Timeline", 5000, function(sym, e) {
          // insert code here
          sym.play(0);
 
@@ -15,4 +23,4 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
    })("stage");
    //Edge symbol end:'stage'
 
-})(jQuery, AdobeEdge, "EDGE-2623609");
+})(jQuery, AdobeEdge, "EDGE-428240");
