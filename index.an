@@ -206,7 +206,7 @@
 			"timelineColor2":"0xb099ce",
 			"timelineColor3":"0x70657c",
 			"timelineColor":"0xceaef4",
-			"timelineTreeOpened":"false",
+			"timelineTreeOpened":"true",
 			"animationEnabled":"true"},
 		"element_${_t13}":{
 			"timelineColor2":"0x326a96",
@@ -302,10 +302,10 @@
 	"StageZoomFactor":"119",
 	"pixelsPerMs":"0.047504351960019",
 	"ShowRulers":"false",
-	"viewStartY":"14",
+	"viewStartY":"30",
 	"usedBOM":"false",
 	"nextElementColorIndex":"13",
-	"stage-Default Timeline_playhead_ms":"20746",
+	"stage-Default Timeline_playhead_ms":"15250",
 	"pref__general__GenerateSmoothTransitions":"true",
 	"TransitionIdCounter":"294",
 	"stage-Default Timeline_mark_ms":"-1"}
